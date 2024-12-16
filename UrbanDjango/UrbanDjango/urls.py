@@ -23,3 +23,5 @@ urlpatterns = [
     path('func_view/', task2_func_view),
     path('class_view/', ViewByClass.as_view()),
 ]
+
+
